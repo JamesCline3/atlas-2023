@@ -1,0 +1,52 @@
+{
+	"id": -1,
+	"name": "Deep Rock + Sea of Thieves",
+	"description": "Both are online multiplayer games played in groups of up to 4. They joined together and used the same discord to create this colabrative art",
+	"links": {
+		"subreddit": [
+			"DeepRockGalactic",
+			"Seaofthieves"
+		],
+		"discord": [
+			"FcUZFMbrgu"
+		]
+	},
+	"path": {
+		"164": [
+			[
+				-306,
+				568
+			],
+			[
+				-231,
+				568
+			],
+			[
+				-231,
+				603
+			],
+			[
+				-298,
+				603
+			],
+			[
+				-298,
+				600
+			],
+			[
+				-304,
+				600
+			],
+			[
+				-306,
+				568
+			]
+		]
+	},
+	"center": {
+		"164": [
+			-268,
+			586
+		]
+	}
+}
